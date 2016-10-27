@@ -8,10 +8,10 @@ Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, Jose
 
 ## Contents
 
-* [Table of datasets](https://github.com/ylatif/slam-future/blob/master/datasets/dataset_table.pdf) in pdf format. If you want your dataset listed, please submit a pull request on the main repo.
-* [The bibliography file](https://github.com/ylatif/slam-future/blob/master/bibliography/slam.bib) shared with the community in the hope of it being useful. Pull requests welcome.
+* [Table of datasets](https://github.com/SLAM-future/slam-future/blob/master/datasets/dataset_table.pdf) in pdf format. If you want your dataset listed, please submit a pull request on the main repo.
+* [The bibliography file](https://github.com/SLAM-future/slam-future/blob/master/bibliography/slam.bib) shared with the community in the hope of it being useful. Pull requests welcome.
 
-The main repository can be found at  [https://github.com/ylatif/slam-future](https://github.com/ylatif/slam-future).
+The main repository can be found at  [https://github.com/SLAM-future/slam-future](https://github.com/SLAM-future/slam-future).
 
 ## Things to look forward to
 
