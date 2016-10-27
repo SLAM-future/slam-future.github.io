@@ -1,0 +1,10 @@
+# Site settings
+title: "Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age"
+tag_text: "SLAM: Towards the Robust-Perception Age"
+description: Multimedia Material.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
